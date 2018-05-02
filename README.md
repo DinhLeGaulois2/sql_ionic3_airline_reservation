@@ -22,7 +22,7 @@ Building a project based on an EER (Enhanced Entity-Relationship).
 ---------------
 
 ## Technologies
-> * **Front End**: ***Angular 5***
+> * **Front End**: ***Ionic 3/Angular 4***
 > * **Back End**: ***Express/Node.js*** + ***Sequelize*** (ORM)
 > * **Database**: ***MySQL***
 
